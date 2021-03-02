@@ -4,7 +4,7 @@ This course aims to introduce graduate students to the field of Natural Language
 
 
 
-## Contents
+## Table of Contents
 
 * N-gram Language Models
 * Naive Bayes and Sentiment Classification
