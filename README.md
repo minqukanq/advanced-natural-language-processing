@@ -6,7 +6,7 @@ This course aims to introduce graduate students to the field of Natural Language
 
 ## Table of Contents
 
-* N-gram Language Models
+* [N-gram Language Models](https://github.com/minqukanq/advanced-natural-language-processing/tree/main/n-gram-language-modeling)
 * Naive Bayes and Sentiment Classification
 * Vector Semantics and Embeddings
 * Neural Networks and Neural Language Models
